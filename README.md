@@ -14,4 +14,4 @@ Steps to Usage
 6. From the side panel, select the source and target language .
 7. In the chat window add your text that requires translation. 
 
-
+https://github.com/SUSREE64/LLM_Translator/blob/main/llm_translator.png
